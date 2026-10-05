@@ -11,5 +11,10 @@ Deployment --> Downtime
 
 PUSH vs PULL
 =============
-Push --> Ansible is popular and it recently implemented Pull too.
-Pull --> Chef
+Push --> Ansible is popular and it recently implemented Pull too. (Event Driven)
+Pull --> Chef (Polling/Pushing)
+
+Ansible uses YAML script
+SSH is available by default, no need to separately configure
+
+
