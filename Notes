@@ -7,3 +7,9 @@ Deployment --> Downtime
 3. Download New code
 4. Install dependencies
 5. Start the application
+
+
+PUSH vs PULL
+=============
+Push --> Ansible is popular and it recently implemented Pull too.
+Pull --> Chef
