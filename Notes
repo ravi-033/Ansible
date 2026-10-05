@@ -1,1 +1,9 @@
+Configuration Management
 
+Deployment --> Downtime
+===========================
+1. Stop the application
+2. Take backup and remove old code
+3. Download New code
+4. Install dependencies
+5. Start the application
