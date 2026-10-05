@@ -19,5 +19,9 @@ SSH is available by default, no need to separately configure.
 
 sudo dnf install Ansible -y 
 
+sudo dnf install nginx -y 
+
+PLAYBOOK: Collection of plays, a play is a list of tasks that needs to be executed on the targer server.
+
 
 
